@@ -1,4 +1,4 @@
-[![Dongle's Git-hub Stats](https://github-readme-stats.vercel.app/api?aosjehdgus=aosjehdgus)](https://github.com/aosjehdgus/github-readme-stats)
+[![aosjehdgus's Git-hub Stats](https://github-readme-stats.vercel.app/api?aosjehdgus=aosjehdgus)](https://github.com/aosjehdgus/github-readme-stats)
 
 <!--
 **aosjehdgus/aosjehdgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
