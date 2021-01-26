@@ -1,4 +1,4 @@
-<h2 align="left">-Dongle's Git-hub-</h2>
+<h2 align="left">Dongle's Git-hub</h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faosjehdgus%2Fhit-counter)](https://hits.seeyoufarm.com)
 [![Tech Blog
@@ -16,7 +16,7 @@ Stats](https://github-readme-stats.vercel.app/api?username=aosjehdgus&show_icons
 
 
 
-<h2 align="left">-Score-</h2>
+<h2 align="left">Score</h2>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aosjehdgus&" alt="aosjehdgus" /></p>
