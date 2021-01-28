@@ -16,9 +16,5 @@ Stats](https://github-readme-stats.vercel.app/api?username=aosjehdgus&show_icons
 
 
 
-<h2 align="left">Score</h2>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aosjehdgus&" alt="aosjehdgus" /></p>
 
 
