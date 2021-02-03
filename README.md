@@ -6,8 +6,7 @@
 ```
 ---
 
-
-### Contact me
+:iphone: Contact me
 
 ---
 
