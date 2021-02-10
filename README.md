@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Dongle's%20Git-hub&animation=twinkling&fontSize=40)
 
 ---
-<h4 align = "center"> :stuck_out_tongue_closed_eyes: 긍정적 재료로 소통하는 긍정 개발자   </h4>
-<h5 align = "center"> :running: "안녕하세요. 저는 재료공학 출신 개발자입니다." </h5>
+<h2 align = "center"> :stuck_out_tongue_closed_eyes: 긍정적 재료로 소통하는 긍정 개발자   </h2>
+<h3 align = "center"> :running: "안녕하세요. 저는 재료공학 출신 개발자입니다." </h3>
 
 
 
