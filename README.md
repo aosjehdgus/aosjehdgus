@@ -6,17 +6,24 @@
 
 
 
-<h4>:anchor: Tech stack </h4>
+<h3>:anchor: Tech stack </h3>
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-- HTML/CSS와 JS, React 를 통해서 프론트 개발을 진행합니다.
-- GraphQl 쿼리 언어를 통해 API를 설계합니다.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+- HTML/CSS와 JS, React 를 통해서 프론트 엔드 개발을 진행합니다.
+- Python과 Mysql DB를 이용하여 백엔드 개발을 진행합니다.
+- Git을 통해 버전 관리를 진행합니다.
 ---
 
 
-<h4>:rocket: Contact here </h4>
+<h3>:rocket: Contact here </h3>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faosjehdgus%2Fhit-counter)](https://hits.seeyoufarm.com)
 [![Tech Blog
@@ -28,11 +35,12 @@ Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=ins
 [![Gmail
 Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdhsea@gmail.com)](mailto:kdhsea@gmail.com)
 - 저와 소통을 원하시면 위의 링크를 이용해주시면 됩니다.
-- 기술 블로그, 페이스북, 인스타그램을 운영하고 있습니다.
+- 티스토리를 통해 개인 기술 블로그를 운영하고 있습니다.
+- 페이스북, 인스타그램, Gmail을 통해 연락주세요.
 ---
 
 
-<h4>:stars: Github-stat </h4>
+<h3>:stars: Github-stat </h3>
 
 - 저의 활동을 나타내는 지표입니다.
 - Stat을 참고해주세요.
