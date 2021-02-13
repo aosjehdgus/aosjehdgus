@@ -34,7 +34,7 @@ Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=face
 Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/doooonghyuni/)](https://www.instagram.com/doooonghyuni)
 [![Gmail
 Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdhsea@gmail.com)](mailto:kdhsea@gmail.com)
-- 저와 소통을 원하시면 위의 링크를 이용해주시면 됩니다.
+- 저와 소통을 원하시면 위의 링크를 통해서 연락해 주세요.
 - 티스토리를 통해 개인 기술 블로그를 운영하고 있습니다.
 - 페이스북, 인스타그램, Gmail을 통해 연락주세요.
 ---
