@@ -17,9 +17,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-- HTML/CSS와 JS, React 를 통해서 프론트 엔드 개발을 진행합니다.
-- Python과 Mysql DB를 이용하여 백엔드 개발을 진행합니다.
-- Git을 통해 버전 관리를 진행합니다.
+- HTML/CSS와 JS, React 를 이용하여 프론트 엔드 개발을 진행합니다. (Front-end development using HTML/CSS, JS, and React.)
+- Python과 Mysql DB를 이용하여 백엔드 개발을 진행합니다. (I use Python and Mysql DB to develop backend.)
+- Git을 통해 버전 관리를 진행합니다. (Versioning is done through Git.)
 ---
 
 
@@ -34,16 +34,16 @@ Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=face
 Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/doooonghyuni/)](https://www.instagram.com/doooonghyuni)
 [![Gmail
 Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdhsea@gmail.com)](mailto:kdhsea@gmail.com)
-- 저와 소통을 원하시면 위의 링크를 통해서 연락해 주세요.
-- 티스토리를 통해 개인 기술 블로그를 운영하고 있습니다.
-- 페이스북, 인스타그램, Gmail을 통해 연락주세요.
+- 저와 소통을 원하시면 위의 링크를 통해서 연락해 주세요. (If you want to communicate with me, please contact me through the link above.)
+- 티스토리를 통해 개인 기술 블로그를 운영하고 있습니다. (I run a personal technology blog through Tistory.)
+- 페이스북, 인스타그램, Gmail을 통해 연락주세요. (Please contact us through Facebook, Instagram, or Gmail.)
 ---
 
 
 <h3>:stars: Github-stat </h3>
 
-- 저의 활동을 나타내는 지표입니다.
-- Stat을 참고해주세요.
+- 저의 활동을 나타내는 지표입니다. (It is an indicator of my activity.)
+- Stat을 참고해주세요. (Please refer to Stat.)
 
 [![Dongle's Git-hub
 Stats](https://github-readme-stats.vercel.app/api?username=aosjehdgus&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
