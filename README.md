@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
@@ -20,8 +19,9 @@
 
 </p>
 
-- React를 주로 다루고, Redux를 활용하여 프론트 엔드 개발 합니다
-- Git, Sourcetree를 통해 버전 관리 경험을 가지고 있습니다
+- React를 이용하여 프론트 엔드 개발을 진행합니다.
+- Redux, Redux-toolkit, Redux-saga 를 통해 상태를 관리합니다.
+- Git, Sourcetree를 통한 버전 관리 경험을 가지고 있습니다
 - Jira를 통해 애자일 방식으로 개발을 진행하고 있습니다
 - Jest를 활용하여 테스크 코드를 작성합니다
 ---
