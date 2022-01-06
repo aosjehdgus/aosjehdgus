@@ -20,7 +20,7 @@
 </p>
 
 - React를 이용하여 프론트 엔드 개발을 진행합니다.
-- Redux, Redux-saga 를 통해 상태를 관리합니다.
+- Redux, Redux-saga를 통해 상태를 관리합니다.
 - Git, Sourcetree를 통한 버전 관리 경험을 가지고 있습니다
 - Jira를 통해 애자일 방식으로 개발을 진행하고 있습니다
 ---
